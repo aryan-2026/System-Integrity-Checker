@@ -11,7 +11,7 @@ main() {
         [1]*)
             echo "Please enter a Directory to create a baseline of: "
             read dir
-            source ./baseline_creator.sh "$dir"
+            source ./baselineCreate.sh "$dir"
             ;;
 
         [2]*)
@@ -20,7 +20,7 @@ main() {
             if [ "$ans" == "y" ]; then
                 echo "Please enter the Directory you want to check: "
                 read dir
-                source ./run_check.sh "$dir"
+                source ./Check.sh "$dir"
             fi
             ;;
 
@@ -32,7 +32,7 @@ main() {
                 echo "Please name your report"
                 read name
 
-                source ./reporting.sh "./Reports/temp_Report.txt" > "./Reports/"$name""
+                source ./Report.sh "./Reports/temp_Report.txt" > "./Reports/"$name""
                 displayReport "$name"
             fi
             ;;

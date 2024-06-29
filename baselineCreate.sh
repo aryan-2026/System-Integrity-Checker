@@ -1,8 +1,6 @@
 #!/bin/bash
 
 #This will loop through the files in a directory (Put in loop of directories)
-
-#://askubuntu.com/questions/678914/loop-through-all-files-in-a-folder
 createBaseline() {
     BASEPATH=$(find / -name $1 2>/dev/null | head -n1)
 
@@ -50,7 +48,7 @@ baselineWrite() {
 }
 
 nameCheck(){
-    #Used to make surea baseline doesn't already exist so it doesn't get overwriten
+    #Used to make sure baseline doesn't already exist so it doesn't get overwriten
     for i in "$2"/*
     do
         name=$(echo -n "$i" | rev | cut -f 1 -d "/" | rev)
@@ -61,5 +59,4 @@ nameCheck(){
     done
     echo 0
 }
-#Call function
 createBaseline $1
