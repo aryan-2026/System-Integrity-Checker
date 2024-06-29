@@ -1,0 +1,11 @@
+3418672 -rw-r--r-- 1 kali kali 296 Apr 23 10:20 /home/kali/Documents/java/Add.java
+3411536 -rw-r--r-- 1 kali kali 1376 Apr 23 09:55 /home/kali/Documents/java/Room.java
+3421182 -rw-r--r-- 1 kali kali 1036 May  6 12:27 /home/kali/Documents/java/Vehicle.java
+3421180 -rw-r--r-- 1 kali kali 1044 Apr 30 09:41 /home/kali/Documents/java/count.java
+3421303 -rw-r--r-- 1 kali kali 491 May  7 09:51 /home/kali/Documents/java/demo
+3421304 -rw-r--r-- 1 kali kali 492 May  7 09:53 /home/kali/Documents/java/demo.java
+3421308 -rw-r--r-- 1 kali kali 242 May  7 10:05 /home/kali/Documents/java/employee
+3415729 -rw-r--r-- 1 kali kali 146 Apr  2 10:23 /home/kali/Documents/java/javacode.java
+3421315 -rw-r--r-- 1 kali kali 240 May  7 10:09 /home/kali/Documents/java/overriding.java
+3421178 -rw-r--r-- 1 kali kali 1043 Apr 30 09:40 /home/kali/Documents/java/rev_string
+3421270 -rw-r--r-- 1 kali kali 852 May  6 12:17 /home/kali/Documents/java/vehicle.java
