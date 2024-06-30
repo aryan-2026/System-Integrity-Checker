@@ -1,0 +1,38 @@
+HIGH PRIORITY CHANGES
+ 
+Index Number Channge Detected
+ 
+Privilege Change Detected
+ 
+Owner Change Detected
+ 
+Group Change Detected
+ 
+MEDIUM PRIORITY CHANGES
+ 
+Number of Links Change Detected
+ 
+Change in File Size Detected
+ 
+LOW PRIORITY CHANGES
+ 
+Last Access Time Change Detected
+/home/kali/Documents/Notes_btech/COA
+/home/kali/Documents/Notes_btech/DS
+/home/kali/Documents/Notes_btech/DSTL
+/home/kali/Documents/Notes_btech/UHV
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.1
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.2
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBoxHardening.log
+/home/kali/Documents/Notes_btech/oubliette/oubliette.vbox
+/home/kali/Documents/Notes_btech/oubliette/oubliette.vbox-prev
+ 
+Change in Real Path Detected
+/home/kali/Documents/Notes_btech/COA
+/home/kali/Documents/Notes_btech/DS
+/home/kali/Documents/Notes_btech/oubliette
+/home/kali/Documents/Notes_btech/oubliette/Logs
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.1
+/home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.2

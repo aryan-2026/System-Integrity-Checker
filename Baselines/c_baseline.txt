@@ -1,0 +1,5 @@
+3408499 drwxr-xr-x 3 kali kali 4096 Apr  7 01:07 /home/kali/.cache/pip/http-v2/b/c/a
+3408500 drwxr-xr-x 3 kali kali 4096 Apr  7 01:07 /home/kali/.cache/pip/http-v2/b/c/a/b
+3408501 drwxr-xr-x 2 kali kali 4096 Apr  7 01:07 /home/kali/.cache/pip/http-v2/b/c/a/b/8
+3408502 -rw------- 1 kali kali 1172 Apr  7 01:07 /home/kali/.cache/pip/http-v2/b/c/a/b/8/bcab845861e9165802ac01c3d577e2dd850c5879d476c1fbab3d6b7c
+3408503 -rw------- 1 kali kali 6805 Apr  7 01:07 /home/kali/.cache/pip/http-v2/b/c/a/b/8/bcab845861e9165802ac01c3d577e2dd850c5879d476c1fbab3d6b7c.body

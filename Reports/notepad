@@ -1,0 +1,37 @@
+HIGH PRIORITY CHANGES
+ 
+Index Number Channge Detected
+ 
+Privilege Change Detected
+ 
+Owner Change Detected
+ 
+Group Change Detected
+ 
+MEDIUM PRIORITY CHANGES
+ 
+Number of Links Change Detected
+ 
+Change in File Size Detected
+ 
+LOW PRIORITY CHANGES
+ 
+Last Access Time Change Detected
+/home/kali/Downloads/notepad/Dockerfile
+/home/kali/Downloads/notepad/app.py
+/home/kali/Downloads/notepad/static
+/home/kali/Downloads/notepad/templates
+/home/kali/Downloads/notepad/templates/errors
+/home/kali/Downloads/notepad/templates/errors/bad_content.html
+/home/kali/Downloads/notepad/templates/errors/long_content.html
+/home/kali/Downloads/notepad/templates/index.html
+ 
+Change in Real Path Detected
+/home/kali/Downloads/notepad/Dockerfile
+/home/kali/Downloads/notepad/app.py
+/home/kali/Downloads/notepad/static
+/home/kali/Downloads/notepad/templates
+/home/kali/Downloads/notepad/templates/errors
+/home/kali/Downloads/notepad/templates/errors/bad_content.html
+/home/kali/Downloads/notepad/templates/errors/long_content.html
+/home/kali/Downloads/notepad/templates/index.html

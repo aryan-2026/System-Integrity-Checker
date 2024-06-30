@@ -1,0 +1,16 @@
+3414244 drwxr-xr-x 2 kali kali 4096 Dec 20  2023 /home/kali/Documents/Notes_btech/COA
+3414251 drwxr-xr-x 2 kali kali 4096 Feb  7 00:39 /home/kali/Documents/Notes_btech/DS
+3414259 drwxr-xr-x 2 kali kali 4096 Dec 14  2023 /home/kali/Documents/Notes_btech/DSTL
+3408919 drwxr-xr-x 2 kali kali 4096 Apr 16 21:02 /home/kali/Documents/Notes_btech/OS
+3344795 -rw-r--r-- 1 kali kali 2426295 Apr 16 21:01 /home/kali/Documents/Notes_btech/OS/OS_Full_Notes.pdf
+3414298 drwxr-xr-x 2 kali kali 4096 Feb  9 01:08 /home/kali/Documents/Notes_btech/UHV
+3414264 drwxr-xr-x 3 kali kali 4096 Dec 29 23:05 /home/kali/Documents/Notes_btech/oubliette
+3414268 drwxr-xr-x 2 kali kali 4096 Dec 29 23:05 /home/kali/Documents/Notes_btech/oubliette/Logs
+3414269 -rwxr-xr-x 1 kali kali 209034 Oct 29  2023 /home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log
+3414270 -rwxr-xr-x 1 kali kali 208023 Oct 28  2023 /home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.1
+3414271 -rwxr-xr-x 1 kali kali 205484 Oct 28  2023 /home/kali/Documents/Notes_btech/oubliette/Logs/VBox.log.2
+3414272 -rwxr-xr-x 1 kali kali 503515 Oct 29  2023 /home/kali/Documents/Notes_btech/oubliette/Logs/VBoxHardening.log
+3414266 -rwxr-xr-x 1 kali kali 2943 Oct 29  2023 /home/kali/Documents/Notes_btech/oubliette/oubliette.vbox
+3414267 -rwxr-xr-x 1 kali kali 3361 Oct 28  2023 /home/kali/Documents/Notes_btech/oubliette/oubliette.vbox-prev
+3414273 drwxr-xr-x 2 kali kali 4096 Mar 13 01:49 /home/kali/Documents/Notes_btech/python
+3319274 -rw-r--r-- 1 kali kali 4282369 Mar 11 09:36 /home/kali/Documents/Notes_btech/python/UNIT-3.pdf
