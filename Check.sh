@@ -33,14 +33,14 @@ function change_check() {
 }
 
 tempCreate() {
-    #If a baseline for the user input exists
-    #and the input is a directory a temp file is created
-    path=$(find / -name $1 2>"/dev/null")
-    if [ -d "$path" ] && [ -e ./Baselines/$1_baseline.txt ]
-    then
-        dirLoop $path > temp.txt
+    local path
+    path=$(find / -name "$1" -type d 2>/dev/null | head -n 1)
+    if [ -d "$path" ] && [ -e "./Baselines/${1}_baseline.txt" ]; then
+        dirLoop "$path" > temp.txt
     else
         echo "Oops, you don't have a baseline to check against!"
+        echo "Searched for directory: $1"
+        echo "Baseline file: ./Baselines/${1}_baseline.txt"
     fi
 }
 

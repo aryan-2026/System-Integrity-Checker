@@ -1,5 +1,12 @@
 3418672 -rw-r--r-- 1 kali kali 296 Apr 23 10:20 /home/kali/Documents/java/Add.java
+3424264 -rw-rw-r-- 1 kali kali 629 Jul  2 09:52 /home/kali/Documents/java/Employee.java
+3424280 -rw-rw-r-- 1 kali kali 865 Jul  2 10:08 /home/kali/Documents/java/EnglishGreeting.class
+3424281 -rw-rw-r-- 1 kali kali 381 Jul  2 10:08 /home/kali/Documents/java/Function.class
+3424278 -rw-rw-r-- 1 kali kali 400 Jul  2 10:08 /home/kali/Documents/java/Function.java
+3419904 -rw-rw-r-- 1 kali kali 214 Jul  2 10:08 /home/kali/Documents/java/Greeting.class
 3411536 -rw-r--r-- 1 kali kali 1376 Apr 23 09:55 /home/kali/Documents/java/Room.java
+3420989 -rw-rw-r-- 1 kali kali 2131 Jul  2 10:14 /home/kali/Documents/java/SimpleLambdaDemo.class
+3420980 -rw-rw-r-- 1 kali kali 372 Jul  2 10:16 /home/kali/Documents/java/SimpleLambdaDemo.java
 3421182 -rw-r--r-- 1 kali kali 1036 May  6 12:27 /home/kali/Documents/java/Vehicle.java
 3421180 -rw-r--r-- 1 kali kali 1044 Apr 30 09:41 /home/kali/Documents/java/count.java
 3421303 -rw-r--r-- 1 kali kali 491 May  7 09:51 /home/kali/Documents/java/demo

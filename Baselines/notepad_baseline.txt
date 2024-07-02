@@ -1,8 +1,0 @@
-3416004 -rwxr-xr-x 1 kali kali 405 Jan  1  1970 /home/kali/Downloads/notepad/Dockerfile
-3416003 -rwxr-xr-x 1 kali kali 727 Jan  1  1970 /home/kali/Downloads/notepad/app.py
-3415987 drwxr-xr-x 2 kali kali 4096 Jan  1  1970 /home/kali/Downloads/notepad/static
-3415989 drwxr-xr-x 3 kali kali 4096 Jan  1  1970 /home/kali/Downloads/notepad/templates
-3415990 drwxr-xr-x 2 kali kali 4096 Jan  1  1970 /home/kali/Downloads/notepad/templates/errors
-3415992 -rwxr-xr-x 1 kali kali 38 Jan  1  1970 /home/kali/Downloads/notepad/templates/errors/bad_content.html
-3415993 -rwxr-xr-x 1 kali kali 83 Jan  1  1970 /home/kali/Downloads/notepad/templates/errors/long_content.html
-3415994 -rwxr-xr-x 1 kali kali 283 Jan  1  1970 /home/kali/Downloads/notepad/templates/index.html
