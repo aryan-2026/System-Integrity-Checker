@@ -2,13 +2,14 @@
 
 function change_check() {
     #creates temp.txt file to check against the baseline
-    tempCreate $1
+    file_Name=$(basename "$1")
+    tempCreate "$1"
 
     #If successful, runs the check
     if [ -e temp.txt ]
     then
         echo "Running Check... This takes a moment"
-        base=./Baselines/$1_baseline.txt
+        base=./Baselines/${file_Name}_baseline.txt
 
         #If data already stored in the temp_Report file, it is destroyed and replaced
         if [ -e ./Reports/temp_Report.txt ]
@@ -25,7 +26,7 @@ function change_check() {
         done
 
         #removes raw data file used to create temp_Report
-        rm temp.txt
+      #  rm temp.txt
         echo "Finished Check! Results will be stored in temp_Report until a report is generated!"
 
     fi
@@ -34,15 +35,26 @@ function change_check() {
 
 tempCreate() {
     local path
-    path=$(find / -name "$1" -type d 2>/dev/null | head -n 1)
-    if [ -d "$path" ] && [ -e "./Baselines/${1}_baseline.txt" ]; then
-        dirLoop "$path" > temp.txt
+    # Check if input is a full path
+    if [ -d "$1" ]; then
+        path="$1"
     else
-        echo "Oops, you don't have a baseline to check against!"
-        echo "Searched for directory: $1"
-        echo "Baseline file: ./Baselines/${1}_baseline.txt"
+        # Search for directory if only the name is provided
+        path=$(find / -name "$1" -type d 2>/dev/null | head -n 1)
+    fi
+
+    # Check if the directory exists
+    if [ ! -d "$path" ]; then
+        echo "Oops, directory '$1' does not exist."
+    elif [ ! -e "./Baselines/$(basename "$1")_baseline.txt" ]; then
+        echo "Directory '$path' exists, but the baseline file './Baselines/$(basename "$1")_baseline.txt' does not."
+        echo "Please create a baseline first."
+    else
+        dirLoop "$path" > temp.txt
+        echo "Temporary data created successfully for directory '$path'."
     fi
 }
+
 
 #same function as baselineWrite to create temp file
 dirLoop() {

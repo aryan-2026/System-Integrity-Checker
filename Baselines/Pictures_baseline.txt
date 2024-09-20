@@ -1,0 +1,90 @@
+278397 drwxr-xr-x. 1 fedora fedora 360 Sep 19 18:57 /home/fedora/Pictures/Camera
+353878 -rw-r--r--. 1 fedora fedora 9538790 Sep 19 18:56 /home/fedora/Pictures/Camera/DSC_2425.JPG
+353897 -rw-r--r--. 1 fedora fedora 10454446 Sep 19 18:56 /home/fedora/Pictures/Camera/DSC_2494.JPG
+353894 -rw-r--r--. 1 fedora fedora 10034717 Sep 19 18:56 /home/fedora/Pictures/Camera/DSC_2496.JPG
+353954 -rw-r--r--. 1 fedora fedora 8078244 Sep 19 18:56 /home/fedora/Pictures/Camera/DSC_2638.JPG
+354011 -rw-r--r--. 1 fedora fedora 13016848 Sep 19 18:57 /home/fedora/Pictures/Camera/DSC_2693.JPG
+163802 -rwxr-xr-x. 1 fedora fedora 2516649 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG20240127121953.jpg
+163803 -rwxr-xr-x. 1 fedora fedora 2011831 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG20240128104120.jpg
+163804 -rwxr-xr-x. 1 fedora fedora 4089300 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG20240128141033.jpg
+163805 -rwxr-xr-x. 1 fedora fedora 4332998 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG20240128141035.jpg
+163807 -rwxr-xr-x. 1 fedora fedora 3808709 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG_20240327_142240.jpg
+163806 -rwxr-xr-x. 1 fedora fedora 1946953 Sep  5 10:48 /home/fedora/Pictures/Camera/IMG_5134.jpeg
+192911 -rw-r--r--. 1 fedora fedora 45306 Sep 12 01:08 /home/fedora/Pictures/CIS_graph.png
+160495 drwxr-xr-x. 1 fedora fedora 5226 Sep 17 17:26 /home/fedora/Pictures/Screenshots
+160496 -rwxr-xr-x. 1 fedora fedora 59592 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-43-25.png
+160497 -rwxr-xr-x. 1 fedora fedora 90250 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-46-42.png
+160498 -rwxr-xr-x. 1 fedora fedora 191959 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-47-05.png
+160499 -rwxr-xr-x. 1 fedora fedora 146468 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-47-21.png
+160500 -rwxr-xr-x. 1 fedora fedora 40462 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-48-00.png
+160501 -rwxr-xr-x. 1 fedora fedora 335463 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-48-20.png
+160502 -rwxr-xr-x. 1 fedora fedora 108024 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-16 13-49-27.png
+160503 -rwxr-xr-x. 1 fedora fedora 381815 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-20 14-06-49.png
+160504 -rwxr-xr-x. 1 fedora fedora 219282 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-26 10-38-40.png
+160505 -rwxr-xr-x. 1 fedora fedora 196513 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-27 17-26-08.png
+160506 -rwxr-xr-x. 1 fedora fedora 164313 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-27 17-32-30.png
+160507 -rwxr-xr-x. 1 fedora fedora 152750 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-27 17-36-46.png
+160508 -rwxr-xr-x. 1 fedora fedora 189719 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-02-27 17-40-57.png
+160509 -rwxr-xr-x. 1 fedora fedora 246829 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-03-27 14-28-01.png
+160510 -rwxr-xr-x. 1 fedora fedora 206016 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-07 00-57-17.png
+160511 -rwxr-xr-x. 1 fedora fedora 336310 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-07 16-38-59.png
+160512 -rwxr-xr-x. 1 fedora fedora 1104437 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-17 19-48-51.png
+160513 -rwxr-xr-x. 1 fedora fedora 181030 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-23 08-08-30.png
+160514 -rwxr-xr-x. 1 fedora fedora 343646 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-24 15-46-40.png
+160515 -rwxr-xr-x. 1 fedora fedora 166088 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-28 22-30-04.png
+160516 -rwxr-xr-x. 1 fedora fedora 78646 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-04-28 22-30-32.png
+160517 -rwxr-xr-x. 1 fedora fedora 433463 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-02 22-56-46.png
+160518 -rwxr-xr-x. 1 fedora fedora 203382 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-07 09-54-47.png
+160519 -rwxr-xr-x. 1 fedora fedora 177398 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-07 10-14-04.png
+160520 -rwxr-xr-x. 1 fedora fedora 264557 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-28 19-49-40.png
+160521 -rwxr-xr-x. 1 fedora fedora 94242 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-28 19-56-35.png
+160522 -rwxr-xr-x. 1 fedora fedora 107586 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-05-28 19-57-26.png
+160523 -rwxr-xr-x. 1 fedora fedora 892573 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-12 06-17-25.png
+160524 -rwxr-xr-x. 1 fedora fedora 172404 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-16 14-54-30.png
+160525 -rwxr-xr-x. 1 fedora fedora 172220 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-16 14-55-05.png
+160526 -rwxr-xr-x. 1 fedora fedora 161718 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-17 18-31-12.png
+160527 -rwxr-xr-x. 1 fedora fedora 339229 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-21 16-36-54.png
+160528 -rwxr-xr-x. 1 fedora fedora 93716 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-28 11-50-09.png
+160529 -rwxr-xr-x. 1 fedora fedora 64006 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-29 16-05-39.png
+160530 -rwxr-xr-x. 1 fedora fedora 59356 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-29 16-06-24.png
+160531 -rwxr-xr-x. 1 fedora fedora 62471 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-29 16-13-09.png
+160532 -rwxr-xr-x. 1 fedora fedora 252103 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-06-29 16-13-28.png
+160533 -rwxr-xr-x. 1 fedora fedora 45898 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-01 10-15-00.png
+160534 -rwxr-xr-x. 1 fedora fedora 48043 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-01 10-15-38.png
+160535 -rwxr-xr-x. 1 fedora fedora 183644 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-02 10-01-29.png
+160536 -rwxr-xr-x. 1 fedora fedora 334440 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-02 10-10-46.png
+160537 -rwxr-xr-x. 1 fedora fedora 328961 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-02 10-16-48.png
+160538 -rwxr-xr-x. 1 fedora fedora 58017 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 01-15-40.png
+160539 -rwxr-xr-x. 1 fedora fedora 58734 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 11-09-02.png
+160540 -rwxr-xr-x. 1 fedora fedora 53254 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 13-57-50.png
+160541 -rwxr-xr-x. 1 fedora fedora 55638 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 13-58-19.png
+160542 -rwxr-xr-x. 1 fedora fedora 168854 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 14-18-13.png
+160543 -rwxr-xr-x. 1 fedora fedora 69905 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 14-18-30.png
+160544 -rwxr-xr-x. 1 fedora fedora 322491 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 14-33-33.png
+160545 -rwxr-xr-x. 1 fedora fedora 137067 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-03 14-37-50.png
+160546 -rwxr-xr-x. 1 fedora fedora 106964 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-13 00-43-10.png
+160547 -rwxr-xr-x. 1 fedora fedora 135613 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-25 16-03-11.png
+160548 -rwxr-xr-x. 1 fedora fedora 842677 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-07-31 22-19-36.png
+160549 -rwxr-xr-x. 1 fedora fedora 570401 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-06 00-45-49.png
+160550 -rwxr-xr-x. 1 fedora fedora 134184 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-29 14-47-38.png
+160551 -rwxr-xr-x. 1 fedora fedora 141093 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-29 14-51-43.png
+160552 -rwxr-xr-x. 1 fedora fedora 125266 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-30 14-04-58.png
+160553 -rwxr-xr-x. 1 fedora fedora 125129 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-30 14-09-28.png
+160554 -rwxr-xr-x. 1 fedora fedora 131842 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-08-30 14-12-07.png
+160555 -rwxr-xr-x. 1 fedora fedora 181225 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-01 01-14-09.png
+160556 -rwxr-xr-x. 1 fedora fedora 252030 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-03 18-41-12.png
+160557 -rwxr-xr-x. 1 fedora fedora 200596 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-04 01-42-17.png
+160558 -rwxr-xr-x. 1 fedora fedora 205100 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-04 01-43-47.png
+160559 -rwxr-xr-x. 1 fedora fedora 207223 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-04 01-45-28.png
+160560 -rwxr-xr-x. 1 fedora fedora 437200 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-04 02-43-16.png
+160561 -rwxr-xr-x. 1 fedora fedora 515337 Sep  5 10:43 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-04 02-43-36.png
+290887 -rw-r--r--. 1 fedora fedora 74724 Sep 17 17:26 /home/fedora/Pictures/Screenshots/Screenshot from 2024-09-17 17-26-35.png
+160586 drwxr-xr-x. 1 fedora fedora 526 Sep  6 15:11 /home/fedora/Pictures/wallpapers1
+160587 -rwxr-xr-x. 1 fedora fedora 125858 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/1287529-f-22-raptor-wallpaper-hd-1920x1200-for-ios.jpg
+160588 -rwxr-xr-x. 1 fedora fedora 209155 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/1287565-f-22-raptor-wallpaper-hd-2048x1365-for-windows-10.jpg
+160589 -rwxr-xr-x. 1 fedora fedora 548529 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/3840x2400-maxresdefault.jpg
+160590 -rwxr-xr-x. 1 fedora fedora 136654 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/4601944.jpg
+160591 -rwxr-xr-x. 1 fedora fedora 9181 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/Untitled.jpeg
+160593 -rwxr-xr-x. 1 fedora fedora 1811803 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/wallpaperflare.com_wallpaper.jpg
+160592 -rwxr-xr-x. 1 fedora fedora 593436 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/wallpaperflare-cropped.jpg
+160594 -rwxr-xr-x. 1 fedora fedora 12841247 Sep  5 10:43 /home/fedora/Pictures/wallpapers1/wp12097292-cod-mw2-ghost-wallpapers.png
